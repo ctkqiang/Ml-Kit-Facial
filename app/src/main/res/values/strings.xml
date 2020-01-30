@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ML-Kit Facial Expression</string>
+    <string name="analyse">Analyse</string>
+</resources>
